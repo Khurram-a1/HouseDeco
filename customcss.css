@@ -46,10 +46,10 @@
     width: 200px;
 }
 .bg-img{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("image-1920x900-2.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/image-1920x900-2.jpg");
 }
 .bg-image{
-    background-image: linear-gradient(rgba(26, 24, 23, 0.5), rgba(26, 24, 23, 0.5)), url("image-1920x900-2.jpg");
+    background-image: linear-gradient(rgba(26, 24, 23, 0.5), rgba(26, 24, 23, 0.5)), url("images/image-1920x900-2.jpg");
 }
 .font-1{
     font-family: var(--font-1) !important;
@@ -190,7 +190,7 @@
     background: none;
 }
 .background-img{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("image-1920x900-1.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/image-1920x900-1.jpg");
 }
 .top-n30{
     top: -30px;
